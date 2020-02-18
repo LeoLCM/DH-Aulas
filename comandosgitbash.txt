@@ -1,0 +1,15 @@
+COMANDOS BASICOS DO GIT
+
+cd .. --> Retorna ao diretorio anterior.
+ls --> lista os arquivos do diretorio selecionado.
+git restore --staged <file> --> remove o arquivo adcionado do staged (antes de fazer commit!)
+git add . --> Adicionar todos os arquivos do diretorio para o staged.
+git config --list --> Mostra a lista de todas as configurações geradas. (Principalemnte o user.name e user.email)
+git pull --> Verifica se ha alterações alem do seu com outros repositorios. (Serve mais pra trabalhar em publico e não houver conflitos.)
+git rem --cached <file> --> Remove o arquivo do staged.
+git pull --allow-unrelated-histories origin master
+touch {arquivo} --> Criar arquvio com o nome e sua extensão (Ex: .js, json)
+code . --> abre o VScode do mesmo diretorio do git Bash 
+ATALHO: ctrl+c --> reinicia o servidor que foi ativado pelo bash
+npm install -g(opcional) nodemon --> Funciona em qualquer terminal, instala um modulo que reincia o servidor automaticamnete toda vez se tiver alguma alteracao no codigo
+nodemon index.js
