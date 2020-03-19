@@ -1,0 +1,38 @@
+***Processo Waterfall***
+- Desenvolvida em 1970;
+- 1: Requisitos do sistema;
+-   2: Requisitos de software;
+-                    3: Análise;
+-                      4: Design do projeto;
+-                        5: Codar (Escrever codigo);              |
+-                                   6: Testar o codigo;    deploy V
+-                                     7: Prod (Colocar em produção);
+- O cliente so vai poder visualizar a partir da etapa testar;
+
+***Processo RUP***
+- Melhorias do Waterfall;
+- UML: Reduz a quantidade de documentação do sistema;
+
+***Agilidade***
+- Flexibilidade;
+- "Agilidade é entregar valor rapidamente": Para os clientes, quantos mais valores agregados do seu sistema, mais ágil é considerado;
+- Manifesto Ágil:
+  - Individuos e iteracoes              Processos e ferramentas
+  - Software que funciona       Ao      Documentacao abragente
+  - Colaboracao do cliente    Invés     Negociacao de contrato
+  - Resposta à mundacas         de      Seguir um plano
+  - www.agilmanifesto.org;
+
+***SCRUM***
+- processo ágil que permite manter o foco na entrega do maior valor do negócio, no menor tempo possível;
+- "Sprint": Iteracoes de pequenos intervalos para a apresentacao do software;
+- Origem: The Mytical MAn Month by Fredericl Brooks, 1975;
+- Quando um projeto esta atrasado, adicionar pessoas ao projeto atrasa mais ainda;
+- Quase todas as empresas de software utilizam o scrum;
+- Equipes que se auto-organizam;
+- Os requerimentos são listados em um "Product Backlog";
+- Não há pratica de engenharia prescrita (o Scrum adequa-se a todas);
+- 3 Pilares:
+  - Transparência
+  - Inspeção
+  - Adptação
